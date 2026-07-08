@@ -91,7 +91,7 @@ Built an interactive Excel dashboard featuring:
 
 # 📷 Dashboard Preview
 
-![Dashboard](image/Sample - Superstore-Dashboard.png)
+![Dashboard](image/Superstore-Dashboard.png)
 
 ---
 
