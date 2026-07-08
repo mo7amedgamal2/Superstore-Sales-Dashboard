@@ -91,7 +91,7 @@ Built an interactive Excel dashboard featuring:
 
 # 📷 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](image/Sample - Superstore-Dashboard.png)
 
 ---
 
@@ -138,4 +138,4 @@ Superstore-Sales-Dashboard
 **Mohamed Gamal**
 
 - GitHub: https://github.com/mo7amedgamal2
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/mohamed-gamal-eldeen/
